@@ -15,7 +15,7 @@ I’m **Ebubekir Ömer Yeniçağ**, a passionate **Software Engineering student*
 ### 🛠️ Technologies & Tools
 - **Programming Languages**:  
   - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+  - 
 
 - **Tools**:  
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
