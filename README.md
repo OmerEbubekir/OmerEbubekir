@@ -37,7 +37,7 @@ Here are some of my projects:
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [ybekiryenicag06@gmail.com](mailto:bekiryenicag06@gmail.com)  
+- **Email**: [bekiryenicag06@gmail.com](mailto:bekiryenicag06@gmail.com)  
 - **LinkedIn**: [https://www.linkedin.com/in/ebubekir-yeniçağ-90824b32a/](#)  
 - **GitHub**: You're already here! 😄  
 
