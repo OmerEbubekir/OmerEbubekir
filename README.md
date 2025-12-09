@@ -56,7 +56,7 @@ Currently, I focus on building end-to-end solutions using **.NET Core**, **Node.
   <br/>
   
   <img src="https://github-profile-trophy.vercel.app/?username=OmerEbubekir&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</div>op Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmerEbubekir&layout=compact&theme=radical&hide_border=true)
+</div>
 
 ---
 
