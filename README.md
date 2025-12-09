@@ -41,10 +41,10 @@ Currently, I focus on building end-to-end solutions using **.NET Core**, **Node.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Smart Agri Platform** | A Microservices-based agriculture platform with Blockchain & AI integration. Features Event-Driven architecture with 11+ services. | Node.js, RabbitMQ, Docker, Prisma |
-| **SaaS Lawyer ERP** | A multi-tenant SaaS application for law firms with Role-Based Access Control (RBAC) and automated reporting. | React, Node.js, PostgreSQL, Redis |
-| **SigortaCRM** | End-to-end insurance agency management system with automated policy tracking and modern dashboard. | Next.js 15, TypeScript, Tailwind |
-| **Lawyer CMS API** | Refactoring legacy .NET project to Node.js/TypeScript architecture for better performance and scalability. | Node.js, Express, Docker |
+| **Smart Agri Platform** | A Microservices-based agriculture platform with Blockchain & AI integration. Features Event-Driven architecture with 11+ services. *(Team Project)* | Node.js, RabbitMQ, Docker, Prisma |
+| **[SaaS Lawyer ERP](https://github.com/OmerEbubekir/avukat-erp)** | A multi-tenant SaaS application for law firms with Role-Based Access Control (RBAC) and automated reporting. | React, Node.js, PostgreSQL, Redis |
+| **[SigortaCRM](https://github.com/OmerEbubekir/Sigorta-CRM-Projesi)** | End-to-end insurance agency management system with automated policy tracking and modern dashboard. | Next.js 15, TypeScript, Tailwind |
+| **[Lawyer CMS API](https://github.com/OmerEbubekir/lawyer-cms)** | Refactoring legacy .NET project to Node.js/TypeScript architecture for better performance and scalability. | Node.js, Express, Docker |
 
 ---
 
@@ -61,7 +61,6 @@ Currently, I focus on building end-to-end solutions using **.NET Core**, **Node.
 
 - 📧 **Email**: [bekiryenicag06@gmail.com](mailto:bekiryenicag06@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/ebubekiryenicag](https://www.linkedin.com/in/ebubekiryenicag/)
-- 🌐 **Portfolio**: [Your Portfolio Link if you have one]
 
 ---
 <p align="center">
