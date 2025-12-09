@@ -48,15 +48,10 @@ Currently, I focus on building end-to-end solutions using **.NET Core**, **Node.
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerEbubekir&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=OmerEbubekir&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=239120&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Building+Scalable+Systems;Node.js+%26+.NET+Core+Lover" alt="Typing SVG" />
 </div>
+
 
 ---
 
