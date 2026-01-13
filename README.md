@@ -43,7 +43,7 @@ Currently, I focus on building end-to-end solutions using **.NET Core**, **Node.
 | :--- | :--- | :--- |
 | **Smart Agri Platform** | A Microservices-based agriculture platform with Blockchain & AI integration. Features Event-Driven architecture with 11+ services. *(Team Project)* | Node.js, RabbitMQ, Docker, Prisma |
 | **[SaaS Lawyer ERP](https://github.com/OmerEbubekir/avukat-erp)** | A multi-tenant SaaS application for law firms with Role-Based Access Control (RBAC) and automated reporting. | React, Node.js, PostgreSQL, Redis |
-| **[SigortaCRM](https://github.com/OmerEbubekir/Sigorta-CRM-Projesi)** | End-to-end insurance agency management system with automated policy tracking and modern dashboard. | Next.js 15, TypeScript, Tailwind |
+| **[SigortaCRM](Private)** | End-to-end insurance agency management system with automated policy tracking and modern dashboard. | Next.js 15, TypeScript, Tailwind |
 | **[Lawyer CMS API](https://github.com/OmerEbubekir/lawyer-cms)** | Refactoring legacy .NET project to Node.js/TypeScript architecture for better performance and scalability. | Node.js, Express, Docker |
 
 ---
